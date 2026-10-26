@@ -1,6 +1,6 @@
 # Skill „thw-hermine-api“
 
-**Version 0.2.1-alpha** (26.10.2026) – früher Stand: Inhalte stammen aus einem Projekt und
+**Version 0.2.2-alpha** (26.10.2026) – früher Stand: Inhalte stammen aus einem Projekt und
 sind nur teilweise breit erprobt; Rückmeldungen und Korrekturen sind willkommen.
 
 Bis Version 0.1-alpha hieß der Skill „hermine-api“. Wer ihn schon installiert hat, löscht

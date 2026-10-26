@@ -2,7 +2,7 @@
 name: thw-hermine-api
 license: MIT (siehe LICENSE)
 metadata:
-  version: "0.2.1-alpha"
+  version: "0.2.2-alpha"
 description: Praxiswissen und Referenzclient für die API von Hermine, dem THW-Messenger auf stashcat-Basis (api.thw-messenger.de). Verwenden, wenn ein Projekt Hermine/stashcat anbinden soll – anmelden, Sitzung wiederverwenden, Firmen und Channels auflisten, Channel-Mitglieder lesen, mit Personenlisten abgleichen oder Nachrichten Ende-zu-Ende-verschlüsselt in einen Channel senden. Auch wenn ein Skript Channels, Gruppen oder Unterhaltungen in Hermine automatisch anlegen soll (Channels gehen nur von Hand, Unterhaltungen per API). Auch bei Fehlern wie auth_failed, app_auth_not_ok oder no_permission, bei Fragen zu Channel-Schlüssel, Verschlüsselungskennwort, RSA/AES in Hermine oder zu „Neue Anmeldung“-Benachrichtigungen.
 ---
 

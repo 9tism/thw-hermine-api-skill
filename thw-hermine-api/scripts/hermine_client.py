@@ -44,7 +44,7 @@ from Crypto.PublicKey import RSA
 from Crypto.Random import get_random_bytes
 from Crypto.Util.Padding import pad
 
-__version__ = "0.2.1-alpha"
+__version__ = "0.2.2-alpha"
 
 BASE_URL = "https://api.thw-messenger.de/"
 APP_NAME = "Mein-THW-Tool"  # eigenen Projektnamen eintragen – keine offiziellen Clients nachahmen
