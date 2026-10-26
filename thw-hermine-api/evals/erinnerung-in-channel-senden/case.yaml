@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: erinnerung-in-channel-senden
+expected_outcome: |
+  Ein Python-Modul, das sich bei Hermine anmeldet, die Sitzung wiederverwendet, den Text Ende-zu-Ende verschlüsselt (privater Schlüssel mit Verschlüsselungskennwort, Channel-Schlüssel per RSA-OAEP, Text AES-256-CBC hex) über message/send sendet, einen ehrlichen app_name nutzt und vor dem Senden eine Bestätigung bzw. einen Probelauf vorsieht.

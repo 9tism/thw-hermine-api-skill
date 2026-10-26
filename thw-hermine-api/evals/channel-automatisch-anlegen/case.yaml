@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: channel-automatisch-anlegen
+expected_outcome: |
+  Die Antwort erklärt, dass Channels generell nur von Hand in der Hermine-App oder im Web-Interface angelegt werden können (channels/create liefert no_permission für Skript-Logins), weist darauf hin, dass Unterhaltungen per API (message/createEncryptedConversation) angelegt werden können, schlägt vor, den Channel von Hand anzulegen und die ID im Skript zu hinterlegen, und rät nicht dazu, sich als offizieller Hermine-Client auszugeben.
