@@ -32,6 +32,10 @@ z. B. „Bau mir eine Funktion, die eine Erinnerung in unseren Hermine-Channel s
 
 ## Installation
 
+Bezugsquelle: https://github.com/9tism/thw-hermine-api-skill – die fertige ZIP liegt unter
+[Releases](https://github.com/9tism/thw-hermine-api-skill/releases) und enthält den Ordner
+`thw-hermine-api/`.
+
 **Claude Code:** Ordner `thw-hermine-api/` nach `~/.claude/skills/` (für alle Projekte) oder
 nach `<projekt>/.claude/skills/` (nur dieses Projekt) kopieren. Neue Sitzung starten.
 
