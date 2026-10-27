@@ -1,0 +1,1 @@
+Ein Skill für Claude (Claude Code, claude.ai, Claude-Desktop-App), der Praxiswissen zur API von Hermine, dem THW-Messenger auf stashcat-Basis, mitbringt – plus einen eigenständigen Python-Referenzclient. Entstanden in einem THW-Praxisprojekt, getestet bis Oktober 2026.
